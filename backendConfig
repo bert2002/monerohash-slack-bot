@@ -1,0 +1,7 @@
+debug 0
+logfile /tmp/
+account MoneroBot
+wallet $YOURWALLETID
+monerohash https://monerohash.com/api/stats_address?address=
+slack_url $SLACKWEBHOOK
+slack_channel $SLACKCHANNEL
