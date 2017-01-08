@@ -1,7 +1,7 @@
 monerohash-slack-bot
 =============
 
-Simple bot to gather mining information about your monerohash.com pool and send its to your Slack channel.
+Simple bot to gather mining information about your monerohash.com activity and send its to your Slack channel.
 
 Supports
 -------
