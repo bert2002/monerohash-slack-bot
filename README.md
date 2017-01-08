@@ -1,6 +1,3 @@
-# monerohash-slack-bot
-A monerohash.com Slack bot
-
 monerohash-slack-bot
 =============
 
