@@ -13,6 +13,7 @@ use Getopt::Long;
 use FindBin qw($Bin);
 use LWP::UserAgent;
 use JSON;
+use IO::Socket::SSL 'inet4';
 
 ##########################
 #       Settings         #
